@@ -59,15 +59,33 @@ The performance of the models was evaluated using Accuracy, Precision, Recall, a
 #### Basic CNN 1:
 ![Training and Validation - CNN1](results/CNN1Plotting.png)
 
+#### Basic CNN 2:
+![Training and Validation - CNN1](results/CNN2Plotting.png)
+
 #### ResNet50:
-![Training and Validation - ResNet50](path/to/resnet50_graphs.png)
+![Training and Validation - ResNet50](results/ResNetPlotting.png)
+
+#### MobilNetV2:
+![Training and Validation - ResNet50](results/MobilNetPlotting.png)
+
+#### DenseNet121:
+![Training and Validation - ResNet50](results/DenseNetPlotting.png)
 
 ### Confusion Matrices
 #### Basic CNN 1:
-![Confusion Matrix - CNN1](path/to/cnn1_confusion_matrix.png)
+![Confusion Matrix - CNN1](path/to/CNN1Conf_Matr.png)
+
+#### Basic CNN 2:
+![Training and Validation - CNN1](results/CNN2Conf_Matr.png)
+
+#### ResNet50:
+![Training and Validation - ResNet50](results/ResnetConf_Matr.png)
+
+#### MobilNetV2:
+![Training and Validation - ResNet50](results/MobilNetConf_Matr.png)
 
 #### DenseNet121:
-![Confusion Matrix - DenseNet121](path/to/densenet_confusion_matrix.png)
+![Confusion Matrix - DenseNet121](path/to/DesneNetConf_Matr.png)
 
 ## Code Structure
 
