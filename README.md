@@ -57,7 +57,7 @@ The performance of the models was evaluated using Accuracy, Precision, Recall, a
 
 ### Training and Validation Graphs
 #### Basic CNN 1:
-![Training and Validation - CNN1](path/to/cnn1_graphs.png)
+![Training and Validation - CNN1](results/CNN1Plotting.png)
 
 #### ResNet50:
 ![Training and Validation - ResNet50](path/to/resnet50_graphs.png)
