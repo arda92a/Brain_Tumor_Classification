@@ -19,10 +19,10 @@ The dataset consists of X-ray images divided into two categories: **Healthy** an
 ![Example Dataset Images](results/ExampleImages.png)
 
 ### Training Data Distribution:
-![Training Data Distribution](path/to/training_distribution.png)
+![Training Data Distribution](results/BalanceOfTrain.png)
 
 ### Validation Data Distribution:
-![Validation Data Distribution](path/to/validation_distribution.png)
+![Validation Data Distribution](results/BalanceOfValidation.png)
 
 ## Methodology
 
